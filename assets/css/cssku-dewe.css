@@ -3,3 +3,9 @@
   background-color: rgba(42, 58, 30, .3);
   border: 1px solid #fff;
 }
+
+.main-header__nav {
+  height: 200px !important;
+  /* background-color: rgba(0,0,0,.5) !important;
+  color: #fff !important; */
+}
